@@ -37,7 +37,7 @@ links.forEach(function(link){
         content.classList.add("animate__zoomOutLeft");
         
         setTimeout(function(){
-            location.herf = "/";
+            location.herf = "/PracticaCursoCodigoFacilito";
         }, 600);
         */
         
