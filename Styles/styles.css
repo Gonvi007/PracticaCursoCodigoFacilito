@@ -51,6 +51,7 @@ a:hover, a:focus {
     border-radius: 4px;
     position: relative;
     padding: 1.8em;
+    overflow: scroll;
 }
 .actions {
     position: absolute;
@@ -114,6 +115,8 @@ a:hover, a:focus {
     font-weight: bold;
     color: #642b73;
     font-size: 1.2em;
+    margin-top: 2em;
+    display: inline-block;
 }
 
 .main-image {
@@ -125,7 +128,7 @@ a:hover, a:focus {
 .position {
     background-color: #c6426e;
     color: white;
-    padding: 5px;
+    padding: 0.5em;
     border-radius: 4px;
     margin-right: 0.5em;
 }
